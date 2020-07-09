@@ -1,5 +1,7 @@
-## 小野の風を忘れて
-![](https://i.loli.net/2020/07/09/J5nKPjaoR9lO7TB.jpg)
+
+<div style="text-align: center">
+<img src="https://i.loli.net/2020/07/09/SGU7T2Jy4956jcX.png"/>
+</div>
 
 <!--
 **BlueWithJP/BlueWithJP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
