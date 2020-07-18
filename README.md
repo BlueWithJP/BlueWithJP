@@ -1,6 +1,4 @@
-<div align="center">
-![IMG_6601.GIF](https://i.loli.net/2020/07/18/fEYcZ5KVm1dOMCl.gif)
-  </div>
+
   <img src="https://i.loli.net/2020/07/18/fEYcZ5KVm1dOMCl.gif" width = "300" height = "300" alt="图片名称" align=center />
 
 
