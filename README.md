@@ -1,4 +1,4 @@
-![](https://i.loli.net/2020/07/09/uif82qn6KgytYop.png)
+![IMG_6601.GIF](https://i.loli.net/2020/07/18/fEYcZ5KVm1dOMCl.gif)
 
 <!--
 **BlueWithJP/BlueWithJP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
