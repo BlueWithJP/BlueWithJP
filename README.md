@@ -1,5 +1,5 @@
 
-  <img src="https://i.loli.net/2020/07/18/fEYcZ5KVm1dOMCl.gif" width = "300" height = "300" alt="图片名称" align=center />
+<img src="https://i.loli.net/2020/07/18/fEYcZ5KVm1dOMCl.gif" width = "250" height = "250" alt="cat" align=center />
 
 
 <!--
